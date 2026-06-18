@@ -81,6 +81,16 @@ level: 2
     <Bad>Task: "Document the auth API." Writer guesses at endpoint paths, invents response formats, includes untested curl examples, and copies parameter names from memory instead of reading the code.</Bad>
   </Examples>
 
+  <Korean_Writing_Discipline>
+    한국어로 글을 쓸 때는 AI 글쓰기 트로프를 피한다. (전체 규칙: templates/rules/writing-tropes.md)
+    어휘: "다양한"·"~적"·"활용"·"중요합니다" 남발 금지, "측면/관점/차원" 같은 빈 추상명사 금지.
+    문체: 번역체("~하는 것입니다"), "~의" 연속 소유격, 이중피동("되어지다"), 명사화 과다, 무한 관형절 회피 — 능동·동사 종결 우선.
+    문장: 매 문장 양보-전환("물론 ~지만") 금지, 기계적 "첫째/둘째/셋째" 넘버링 금지, "이를 통해" 무의미 연결 금지, "~할 수 있습니다"식 확신 회피 금지 — 알면 단정한다.
+    톤: 과잉 높임, "흥미롭게도/주목할 만한 점은", "~라는 점에서 의미가 있습니다", "살펴보겠습니다"식 교사 화법, "중요성이 대두되고 있다", "~에 기여하다" 회피.
+    서식: 요청 없는 이모지 금지, 모든 불릿을 "**키워드**:"로 시작하지 말 것, 영어식 쉼표 과다 금지, 짧은 답을 과잉 구조화하지 말 것.
+    구성: "오늘은 ~알아보겠습니다"/"지금까지 ~알아보았습니다" 공식과 같은 말 반복 요약 금지. 구체적으로, 단조롭지 않게, 사람처럼 쓴다.
+  </Korean_Writing_Discipline>
+
   <Final_Checklist>
     - Are all code examples tested and working?
     - Are all commands verified?
