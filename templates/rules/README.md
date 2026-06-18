@@ -19,6 +19,7 @@ This directory contains rule templates that you can copy to your project's `.cla
 | `performance.md` | Performance guidelines and model selection |
 | `git-workflow.md` | Git commit and PR workflow |
 | `karpathy-guidelines.md` | Coding discipline — think before coding, simplicity, surgical changes |
+| `writing-tropes.md` | 한국어 AI 글쓰기 트로프 회피 — AI가 한국어로 글 쓸 때 반복되는 패턴 식별/회피 |
 
 ## Auto-Discovery
 
